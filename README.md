@@ -1,6 +1,7 @@
 # Livro de Receitas :man_cook:
 
-Ola! Bem vindo ao meu livro de receiras :call_me_hand:
+Ola! Bem vindo ao meu livro de receitas :call_me_hand:
 
-- Strogonof de frango
+- Strogonoff de frango
 
+- Pavê
